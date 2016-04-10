@@ -1,0 +1,24 @@
+{
+  "name": "angular-with-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-tutorials/angular-with-firebase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/js-tutorials/angular-with-firebase/issues"
+  },
+  "homepage": "https://github.com/js-tutorials/angular-with-firebase#readme",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "angularfire": "^1.2.0",
+    "firebase": "^2.4.2"
+  }
+}
